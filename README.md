@@ -19,4 +19,8 @@ To evaluate the results we observer the accuracy, precision and sensitivity(reca
 
 ## Results
 
-![Results](/images/overview.png)
+![Results](./Challenge-Resources/overview.png)
+
+## Summary
+
+In the end the Ensembling models provided a much higher sensitivity percentage and therefore are better at predicting credit risk. The Random Forest model did the best overall. The undersampling and the combination resampling had the least favorable results. 
